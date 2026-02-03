@@ -6,4 +6,4 @@ npm-debug.log
 log02.log
 
 # Folder ignored
-Second_Folder/*.log
+Second_Folder/
