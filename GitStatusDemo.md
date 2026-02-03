@@ -1,3 +1,4 @@
-# File: GitStatusDemo.md
+# File: GitStatusDemo.md - This change is going to create CONFLICT
 
-Adding another line
+Adding another line 
+
